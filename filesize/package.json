@@ -1,0 +1,15 @@
+{
+  "name": "filesize",
+  "version": "1.0.0",
+  "description": "file size microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pfilippo",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^1.2.4",
+    "koa-multer": "<1.0.0"
+  }
+}
