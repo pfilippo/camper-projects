@@ -1,3 +1,1 @@
-FreeCodeCamp API projects
-
-- 
+FreeCodeCamp API projects 
